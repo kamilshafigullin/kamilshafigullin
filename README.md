@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⚡ I am passionate programmer from Russia ⚡<br>🔭 I’m currently working on a system for managing PC gaming clubs<br>🌱 I’m currently learning IOS development on Swift<br>👨‍💻 I participated and was finalist in many programming competitions<br>🎓 I have a higher IT education<br>📫 Contact me: kamilluthor@gmail.com</p>
+<p align="left">⚡ I am passionate programmer from Russia ⚡<br>🔭 I’m currently working on a system for managing PC gaming clubs<br>🌱 I’m currently learning IOS development on Swift<br>🏆 I participated and was finalist in many programming competitions<br>🎓 I have a higher IT education<br>📫 Contact me: kamilluthor@gmail.com</p>
 
 ###
 
