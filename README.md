@@ -51,6 +51,4 @@
 <a href="https://www.leetcode.com/kamilshafigullin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamilshafigullin" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/kamilshafigullin/kamilshafigullin/output/snake.svg" alt="Snake animation" />
-
 ###
